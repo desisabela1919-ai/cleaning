@@ -5,13 +5,13 @@ import { getDatabase, ref, onValue, set } from "https://www.gstatic.com/firebase
 
 // 2. JANGAN LUPA SESUAIKAN KONFIGURASI FIREBASE-MU DI SINI, BOY!
 const firebaseConfig = {
-    apiKey: "CONFI_KAMU_DISINI",
-    authDomain: "PROJECT_KAMU.firebaseapp.com",
-    databaseURL: "https://PROJECT_KAMU-default-rtdb.firebaseio.com",
-    projectId: "PROJECT_KAMU",
-    storageBucket: "PROJECT_KAMU.appspot.com",
-    messagingSenderId: "ID_SENDER",
-    appId: "ID_APP"
+  apiKey: "AIzaSyBnXFEJjTovKQUGs74ZcziZ6odR6qxYeug",
+  authDomain: "clean-isabel-app-eaca6.firebaseapp.com",
+  databaseURL: "https://clean-isabel-app-eaca6-default-rtdb.firebaseio.com",
+  projectId: "clean-isabel-app-eaca6",
+  storageBucket: "clean-isabel-app-eaca6.firebasestorage.app",
+  messagingSenderId: "929083923327",
+  appId: "1:929083923327:web:3ebff1bbdd42eb3494984a"
 };
 
 // Inisialisasi Firebase
